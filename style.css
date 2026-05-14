@@ -154,7 +154,7 @@ section{
 .btn{
     display: inline-block;
     padding: 1rem 3 rem;
-    background-color: var(--main-color);
+    background-color:var(--main-color);
     box-shadow: 0 0 25px var(--main-color);
     border-radius: 3rem;
     font-size: 1.8rem;
@@ -162,6 +162,7 @@ section{
     border: 5px solid transparent;
     font-weight: 600;
     transition: 0.3 ease-in-out;
+    
 }
 .btn:hover{
     transform: scale(1.05);
