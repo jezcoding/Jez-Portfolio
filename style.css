@@ -189,8 +189,9 @@ section{
 }
 .about-img img{
     width: 400px;
-    height: 600px;
-    border-radius: 40%;
+    height: 500px;
+    border-radius: 20%;
+    margin-bottom:50px ;
 
     box-shadow: 0 0 25px var(--main-color);
     transition: 1.0s ease-in-out;
