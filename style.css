@@ -205,6 +205,8 @@ section{
 }
 .about-content p{
     font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 2.5rem;
 }
 .about-content .btn{
     margin: 3rem 0;
